@@ -1,3 +1,4 @@
 do something
 do something else
 wait to go home
+deploy app
